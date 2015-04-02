@@ -2,6 +2,7 @@
 ### 前提条件
 1. 手机系统处于**_root_**状态
 2. 基本**_adb_**命令可以执行操作
+
 ### tcpdump简介
 android系统本身是基于linux的，所以我们可以在android上使用很多linux工具，tcpdump就是抓包利器之一。
 
