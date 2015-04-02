@@ -32,6 +32,7 @@
 #### 目前截包数据可以通过两种方式来进行
 + wireshark分析工具进行（无可视化图形不够直观，需要较深协议功底）
 + google提供的可视化图形分析工具（无法深入到协议层面，数据会有所偏差）
+
 #### PCAP Web Performance Analyzer
 + `Page Speed`团队发布了一个分析移动浏览器网络信息的工具——`PCAP Web Performance Analyzer`
 + `PCAP Web Performance Analyzer`（简称pcapperf）工具充分利用了开放文件格式PCAP和HAR以及开源工具cap2har、HAR Viewer和Page Speed的技术优势。对于性能分析工程师来说，首先抓取移动设备的PCAP文件，然后使用pcapperf分析PCAP文件，绘制出网络瀑布图，获取Page Speed的建议，或者下载PCAP文件的HAR格式输出。
